@@ -1,12 +1,12 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Loaded", Text = "(B)low = Enabled : (J)ob = disabled."})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Loaded", Text = "w = Enabled : p = disabled."})
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 
 -- Settings
 
 bind = ""
-bind2 = "b"
-bind3 = "j"
+bind2 = "w"
+bind3 = "p"
 
 -- Script
 
