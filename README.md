@@ -11,6 +11,7 @@ _________          _______  _        _          ______   _______  _______  _____
    | |   | (   ) || (   ) || | \   ||  ( \ \   | (  \ \ | (      | (   ) || (\ (   
    | |   | )   ( || )   ( || )  \  ||  /  \ \  | )___) )| (____/\| )   ( || ) \ \__
    )_(   |/     \||/     \||/    )_)|_/    \/  |/ \___/ (_______/|/     \||/   \__/
+   This is NOT mine.
     ]]                                                                                                                                                                  
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/universalhitboxbigger.lua'))()
 ```
@@ -25,6 +26,7 @@ _________          _______  _        _          ______   _______  _______  _____
    | |   | (   ) || (   ) || | \   ||  ( \ \   | (  \ \ | (      | (   ) || (\ (   
    | |   | )   ( || )   ( || )  \  ||  /  \ \  | )___) )| (____/\| )   ( || ) \ \__
    )_(   |/     \||/     \||/    )_)|_/    \/  |/ \___/ (_______/|/     \||/   \__/
+   This is NOT mine.
     ]]                                                                                                                                                                  
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/universalhitboxbiggeralt.lua'))()
 ```
