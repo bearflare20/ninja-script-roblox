@@ -30,7 +30,7 @@ _________          _______  _        _          ______   _______  _______  _____
     ]]                                                                                                                                                                  
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/universalhitboxbiggeralt.lua'))()
 ```
-##Loadstring: bloxburgscript.lua
+## Loadstring: bloxburgscript.lua
 ```lua
 --[[
 _________          _______  _        _          ______   _______  _______  _______ 
