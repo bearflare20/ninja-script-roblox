@@ -34,3 +34,5 @@ _________          _______  _        _          ______   _______  _______  _____
     ]]                                                                                                                                                                  
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/universalhitboxbiggeralt.lua'))()
 ```
+# Done?
+You can go back to the landing page by clicking [here.](https://bearflare20.github.io)
