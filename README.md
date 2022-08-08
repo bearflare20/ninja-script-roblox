@@ -1,5 +1,6 @@
 # Roblox Scripts
 Loadstrings of scripts, yadda yadda.
+View the website! It's at [bearflare20.github.io/roblox-scripts](https://bearflare20.github.io/roblox-scripts/)
 ## Loadstring: universalhitboxbigger.lua
 ```lua
 --[[
