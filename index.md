@@ -3,7 +3,7 @@ Welcome to scripts where you can find load strings of my *edited* scripts.
 # Loadstrings
 The start of these *edited* scripts.
 ## Loadstring: universalhitboxbigger.lua
-Makes everybody's hit boxes bigger. Bonds are W to enable and P to disable.
+Makes everybody's hit boxes bigger. Binds are W to enable and P to disable.
 ```lua
 --[[
 _________          _______  _        _          ______   _______  _______  _______ 
