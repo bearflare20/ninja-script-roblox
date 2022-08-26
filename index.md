@@ -49,5 +49,13 @@ _________          _______  _        _          ______   _______  _______  _____
     ]]                                                                                                                                                                  
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/breakingui.lua'))()
 ```
+
+## Loadstring: Not mine!
+
+```lua
+-- Leave a like if you enjoyed!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/main.lua"))()
+```
+
 # Done?
 You can go back to the landing page by clicking [here.](https://bearflare20.github.io)
