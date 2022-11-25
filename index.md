@@ -57,5 +57,12 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-sc
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/main.lua"))()
 ```
 
+## Loadstring: MM2 Script
+
+```lua
+-- Credits to Vynixu
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/mm2script.lua'))()
+```
+
 # Done?
 You can go back to the landing page by clicking [here.](https://bearflare20.github.io)
