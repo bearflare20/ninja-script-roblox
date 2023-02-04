@@ -60,3 +60,18 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/
 -- Credits to Vynixu
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/mm2script.lua'))()
 ```
+## Loadstring: Doors Script **by Vynixu**
+```lua
+--[[
+_________          _______  _        _          ______   _______  _______  _______ 
+\__   __/|\     /|(  ___  )( (    /|| \    /\  (  ___ \ (  ____ \(  ___  )(  ____ )
+   ) (   | )   ( || (   ) ||  \  ( ||  \  / /  | (   ) )| (    \/| (   ) || (    )|
+   | |   | (___) || (___) ||   \ | ||  (_/ /   | (__/ / | (__    | (___) || (____)|
+   | |   |  ___  ||  ___  || (\ \) ||   _ (    |  __ (  |  __)   |  ___  ||     __)
+   | |   | (   ) || (   ) || | \   ||  ( \ \   | (  \ \ | (      | (   ) || (\ (   
+   | |   | )   ( || )   ( || )  \  ||  /  \ \  | )___) )| (____/\| )   ( || ) \ \__
+   )_(   |/     \||/     \||/    )_)|_/    \/  |/ \___/ (_______/|/     \||/   \__/
+   This is NOT my script. Credits to RegularVynixu on GitHub
+    ]]                                                                                                                                                                  
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/doors2.lua'))()
+```
