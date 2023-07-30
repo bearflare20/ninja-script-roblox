@@ -75,5 +75,20 @@ _________          _______  _        _          ______   _______  _______  _____
     ]]                                                                                                                                                                  
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/doors2.lua'))()
 ```
+## Loadstring: ratemyavatartrivia.lua **by sw1ndler**
+```lua
+--[[
+_________          _______  _        _          ______   _______  _______  _______ 
+\__   __/|\     /|(  ___  )( (    /|| \    /\  (  ___ \ (  ____ \(  ___  )(  ____ )
+   ) (   | )   ( || (   ) ||  \  ( ||  \  / /  | (   ) )| (    \/| (   ) || (    )|
+   | |   | (___) || (___) ||   \ | ||  (_/ /   | (__/ / | (__    | (___) || (____)|
+   | |   |  ___  ||  ___  || (\ \) ||   _ (    |  __ (  |  __)   |  ___  ||     __)
+   | |   | (   ) || (   ) || | \   ||  ( \ \   | (  \ \ | (      | (   ) || (\ (   
+   | |   | )   ( || )   ( || )  \  ||  /  \ \  | )___) )| (____/\| )   ( || ) \ \__
+   )_(   |/     \||/     \||/    )_)|_/    \/  |/ \___/ (_______/|/     \||/   \__/
+   This is NOT my script. Credits to sw1ndler on v3rmillion
+    ]]                                                                                                                                                                  
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bearflare20/roblox-scripts/main/ratemyavatartrivia.lua'))()
+```
 # Done?
 You can go back to the landing page by clicking [here.](https://bearflare20.github.io)
